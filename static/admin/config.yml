@@ -1,0 +1,29 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: "static/uploads"
+public_folder: "uploads"
+
+collections:
+  - name: "blog"
+    folder: "content/blog"
+    label: "Blog"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true
+    searchFields: ["title", "body", "tags"]
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "string", default: ""}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "content/about/index.md"
+        label: "Sobre"
+        name: "about"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Date", name: "date", widget: "string", default: ""}
+          - {label: "Body", name: "body", widget: "markdown"}

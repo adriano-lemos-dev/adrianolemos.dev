@@ -24,7 +24,7 @@ const TagRow = ({ data }) => {
 
 const TagSection = ({ data }) => (
   <TagSectionContainer>
-    <span>Tagged with</span>
+    <span>Marcado com</span>
     <TagRow data={data} />
   </TagSectionContainer>
 );

@@ -1,20 +1,20 @@
 ---
-author: Adriano Lemos
-draft: false
 title: Vamos falar sobre débito técnico?
-date: "2017-07-28T14:59:04-04:00"
-description: Pensar sobre as decisões que tomamos e o cursto disso para o projeto é parte da disciplina profissional que todos temos que exercitar em cada um dos nossos projetos de software.
+date: '2017-07-28T14:59:04-04:00'
 tags:
   - tech debt
   - débito técnico
   - fábrica de software
 ---
-
 ### Vamos falar sobre débito técnico?
 
 Na verdade, eu adoraria estar iniciando esse _post_ com o título "Vamos fazer alguma coisa para diminuir nosso débito técnico?", mas começar por simplesmente falando sobre isso já é meio caminho andado (nem tanto, mas você entende onde quero chegar, né?).
 
 Sou analista judiciário, especialidade análise de sistemas, em um tribunal superior no Brasil (TST) e desenvolvo _software_; ou seja, faço parte do pessoal que não gosta muito de perder tempo com burocracia. É com essa atitude que começa uma boa parte dos problemas!
+
+Esse é o primeiro _post_ de uma série de conversas que teremos. Veremos como a conversa progride e partimos aí.
+
+
 
 #### Erro #1: Isso é chato e não é problema meu!
 
@@ -44,6 +44,4 @@ Finalmente chegamos: débito técnico!
 
 #### O que é Débito Técnico e como entendê-lo e gerenciá-lo pode nos ajudar?
 
----
-
-## ==== EM ANDAMENTO...SINTO MUITO ====
+Isso é o que veremos na próxima parte dessa conversa (_assim que puder eu continuo_).

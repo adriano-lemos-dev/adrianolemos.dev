@@ -1,4 +1,6 @@
 ---
+author: Adriano Lemos
+draft: false
 title: Vamos falar sobre débito técnico?
 date: '2017-07-28T14:59:04-04:00'
 tags:

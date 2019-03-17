@@ -3,6 +3,7 @@ author: Adriano Lemos
 draft: false
 title: Vamos falar sobre débito técnico?
 date: '2017-07-28T14:59:04-04:00'
+description: Pensar sobre as decisões que tomamos e o cursto disso para o projeto é parte da disciplina profissional que todos temos que exercitar em cada um dos nossos projetos de software.
 tags:
   - tech debt
   - débito técnico

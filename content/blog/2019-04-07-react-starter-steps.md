@@ -5,7 +5,6 @@ tags:
   - react
   - front-end
 ---
-![Simple](https://unsplash.com/photos/QMDap1TAu0g)
 # Simple React SPA (webpack + babel)
 
 Steps to build a simple SPA App, from scratch, using React, Babel, and Webpack.
@@ -27,6 +26,4 @@ yarn add -D webpack webpack-cli babel-loader @babel/core @babel/preset-env
 
 touch .gitignore webpack.config.js .babelrc
 echo "node_modules/" >> .gitignore
-
 ```
-

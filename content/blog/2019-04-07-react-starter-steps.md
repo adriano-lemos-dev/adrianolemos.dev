@@ -21,7 +21,7 @@ mkdir bookstore && cd $_
 yarn init
 ```
 
-Some questions after that...
+Some questions and a new `package.json` after that...
 
 ```bash
 yarn add -D \ 

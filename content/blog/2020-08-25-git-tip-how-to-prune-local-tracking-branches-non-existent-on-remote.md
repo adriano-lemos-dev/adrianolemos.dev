@@ -3,6 +3,7 @@ title: 'git tip: How to prune local tracking branches (non-existent on remote)'
 date: '2020-08-25T21:00:00-03:00'
 tags:
   - git
+  - shell
 ---
 ## One line
 
